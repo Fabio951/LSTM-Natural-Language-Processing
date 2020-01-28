@@ -7,3 +7,5 @@ I used an LSTM followed by two branch of fully connected neural networks in orde
 A deep data engineering is implemented when the dataset is imported, with a high use of Python re (regular expression) package.
 
 The library used for the neural network is PyTorch.
+
+Some bugs may be present. For any information, please do not hesitate to contact me at fabio.semenzato@gmail.com.
